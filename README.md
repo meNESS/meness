@@ -25,18 +25,18 @@
 ## My GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats-nfrovdxp5-homaunam.vercel.app/api?username=meness&show_icons=true&include_all_commits=true" alt="meness" />
+  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api?username=meness&show_icons=true&include_all_commits=true" alt="meness" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meness&theme=light" alt="meness" />
 </p>
 
-<img src="https://github-readme-stats-nfrovdxp5-homaunam.vercel.app/api/top-langs?username=meness&show_icons=true&hide_progress=true&include_all_commits=true" alt="meness" />
+<img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/top-langs?username=meness&show_icons=true&hide_progress=true&include_all_commits=true" alt="meness" />
 
 ## Check out how clean I write code
 
 <p float="left">
-  <img src="https://github-readme-stats-nfrovdxp5-homaunam.vercel.app/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" />
-  <img src="https://github-readme-stats-nfrovdxp5-homaunam.vercel.app/api/pin/?username=meness&repo=neptune-challenge" alt="meness" />
-  <img src="https://github-readme-stats-nfrovdxp5-homaunam.vercel.app/api/pin/?username=meness&repo=spoke-challenge" alt="meness" />
+  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" />
+  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=neptune-challenge" alt="meness" />
+  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=spoke-challenge" alt="meness" />
 </p>
 
 
