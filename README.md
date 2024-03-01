@@ -1,10 +1,11 @@
 # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Alex
-## Full Stack Engineer | Technical Product Manager | ChatGPT Enthusiast
 
-<a href = "mailto:aesshoferi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://wellfound.com/u/alexiam/" target="blank"><img align="center" src="https://wellfound.com/wellfound-favicon-72x.png" alt="Alex on Wellfound" height="30" width="40" /></a>
+### Full Stack Engineer | Technical Product Manager | AI Enthusiast
 
-<img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true"/>
+<a href="mailto:aesshoferi@gmail.com"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
+<a href="https://wellfound.com/u/alexiam/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/wellfound/000000" alt="Wellfound" /></a>
+
+<img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true" alt="Hey there"/>
 
 - 👨‍💻 Focused on the **front end engineering** for the last 6 years.
 
