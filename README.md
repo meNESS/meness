@@ -34,9 +34,9 @@
 ## Check out how clean I write code
 
 <p float="left">
-  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" />
-  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=neptune-challenge" alt="meness" />
-  <img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=spoke-challenge" alt="meness" />
+  <a href="https://github.com/meness/ge-code-challenge" target="_blank"><img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" /></a>
+  <a href="https://github.com/meness/neptune-challenge" target="_blank"><img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=neptune-challenge" alt="meness" /></a>
+  <a href="https://github.com/meness/spoke-challenge" target="_blank"><img src="https://github-readme-stats-pqk7dq2ts-homaunam.vercel.app/api/pin/?username=meness&repo=spoke-challenge" alt="meness" /></a>
 </p>
 
 
