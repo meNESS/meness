@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Alex
+# Hey there <img src="https://github.com/meness/meness/blob/main/wave.gif?raw=true" width="24px"/> I'm Alex
 
 ### Full Stack Engineer | Technical Product Manager | AI Enthusiast
 
@@ -17,7 +17,7 @@
 
 - ⚡ Coding is my passion, not a profession.
 
-- 💬 Don't ask me anything, use ChatGPT and Google 😄
+- 💬 Don't ask me anything, use ChatGPT and Google <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
 
 ## Highlighted technologies that I know
 
@@ -30,16 +30,16 @@
 ### My GitHub stats
 
 <p float="left">
-  <a href="https://github.com/meness/"><img src="https://gh-readme-stats.homaun.link/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged&theme=transparent" alt="meness" /></a>
-  <a href="https://github.com/meness/"><img src="https://gh-readme-streak-stats.homaun.link/?user=meness&theme=transparent&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
+  <a href="https://github.com/meness/"><img src="https://gh-readme-stats.homaun.link/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged" alt="meness" /></a>
+  <a href="https://github.com/meness/"><img src="https://gh-readme-streak-stats.homaun.link/?user=meness&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
 </p>
 
 ## Check out how clean I write code
 
 <p float="left">
-  <a href="https://github.com/meness/ge-code-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=ge-code-challenge&theme=transparent" alt="meness" /></a>
-  <a href="https://github.com/meness/neptune-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=neptune-challenge&theme=transparent" alt="meness" /></a>
-  <a href="https://github.com/meness/spoke-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=spoke-challenge&theme=transparent" alt="meness" /></a>
+  <a href="https://github.com/meness/ge-code-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" /></a>
+  <a href="https://github.com/meness/neptune-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=neptune-challenge" alt="meness" /></a>
+  <a href="https://github.com/meness/spoke-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=spoke-challenge" alt="meness" /></a>
 </p>
 
 
