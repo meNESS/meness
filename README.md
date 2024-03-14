@@ -17,7 +17,7 @@
 
 ⚡ Passionate coder, not just a job
 
-💬 Got questions? Ask ChatGPT & Google <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
+💬 Got questions? Ask ChatGPT or Google it <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
 
 ## Technologies I'm into and pretty good at
 
