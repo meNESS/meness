@@ -21,7 +21,7 @@
 
 ## Technologies I'm into and pretty good at
 
-[![My Skills](https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn&perline=13&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn,chai&perline=13&theme=light)](https://skillicons.dev)
 
 ## My GitHub wins
 
