@@ -7,15 +7,15 @@
 
 <a href="https://github.com/meness/"><img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true" alt="Hey there"/></a>
 
-👨‍💻 All about the front end for 6 years.
+👨‍💻 All about the front end for 6 years
 
-💼 Leading teams & product management vet.
+💼 Leading teams & product management vet
 
-🌱 Diving into Solidity & smart contracts now.
+🌱 Diving into Solidity & smart contracts now
 
 🎨 Aesthetics + Functionality = User Wow!
 
-⚡ Passionate coder, not just a job.
+⚡ Passionate coder, not just a job
 
 💬 Got questions? Ask ChatGPT & Google <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
 
